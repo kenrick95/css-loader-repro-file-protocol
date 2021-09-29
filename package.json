@@ -1,0 +1,15 @@
+{
+  "name": "test-file-protocol",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^6.3.0",
+    "mini-css-extract-plugin": "^2.3.0",
+    "webpack": "5.22.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
